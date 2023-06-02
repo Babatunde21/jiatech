@@ -1,0 +1,190 @@
+h1{
+    text-align: center;
+    color: #1366d1;
+   text-shadow: #fff;
+}
+.ri-menu-line{
+    padding-right: 3rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: #1366d1;
+    color: #fff;
+    box-shadow: 0 0 10px 1px rgba(0, 0,0,0.6);
+
+}
+h2{
+    text-shadow: 3px 2px#fff;
+    font-size: 30px;
+    font-weight: 10px;
+    cursor: pointer;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.menu a{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+}
+.profile-box{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 30rem;
+    cursor: pointer;
+}   
+.intro{
+    font-size: 18px;
+    font-weight: 20px;
+    text-align: center;
+    padding: 20px ;
+    background-color: #fff;
+    background-image: url(./web\ 1.jpg);
+    background-size: cover;
+    color: #fff;
+}
+.intro img{
+    height: 200px;
+    width: 200px;
+}
+.intro p{
+    text-align: justify;
+    text-align: center;
+}
+.footer-bottom{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}   
+.footer-bottom a{
+    text-decoration: none;
+    color: #fff;
+}
+.bottom-2{
+    font-size: 20px;
+    color: #fff;
+}
+.about h2{
+    text-align: center;
+}
+.about p{
+    text-align: justify;
+    padding: 10px;
+    font-weight: 20px;
+    font-size: 20px;
+}
+li a{
+    font-size: 20px;
+    padding-top: 12px;
+    text-decoration: none;
+    color: #1366d1;
+}
+li a:hover{
+    text-decoration: underline;
+    color: #1366d1;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
+.login-details{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    font-family: Helvetica, sans-serif;
+    justify-content: center;
+    background-color: #fff;
+}
+.login-details form{
+    border: none;
+    
+}
+.login-details input{
+    width: 380px;
+    padding: 20px;
+    font-weight: 12px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: none;
+}  
+
+input:focus{
+    outline: none;
+}   
+button{
+    width: 90px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1877f2;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin: 20px 0 10px 0;
+    width: 430px;
+    
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button:hover{
+    background-color: #1366d1;
+}
+.form-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.form-content p{
+    text-align: center;
+}
+.form-content input{
+    width: 380px;
+    padding: 10px;
+    text-align: justify;
+}
+.form-content label{
+    margin: 12px;
+}
+.in{
+    margin-left: 16px;
+}
+.inp{
+    margin-left: 20px;
+}
+.txt{
+    margin-left: 24px;
+}
+.register h2{
+    text-align: center;
+    color: #1366d1;
+}
+.submit-button{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
